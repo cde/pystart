@@ -1,6 +1,6 @@
 # Django settings for pystart project.
 
-DEBUG = True
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
