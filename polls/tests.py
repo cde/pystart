@@ -6,6 +6,7 @@ Replace this with more appropriate tests for your application.
 """
 
 from django.test import TestCase
+from test_polls import *
 
 
 class SimpleTest(TestCase):
